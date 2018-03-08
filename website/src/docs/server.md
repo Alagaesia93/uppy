@@ -216,7 +216,7 @@ See [env.example.sh](https://github.com/transloadit/uppy-server/blob/master/env.
   filePath: "path/to/download/folder",
   sendSelfEndpoint: "localhost:3020",
   secret: 'mysecret',
-  uploadUrls: ['https://myuploadurl.com', 'http://myuploadurl2.com']
+  uploadUrls: ['https://myuploadurl.com', 'http://myuploadurl2.com'],
   debug: true
 }
 ```
